@@ -128,12 +128,4 @@ API utilizada nos testes:
 
 ---
 
-## 🛠️ Boas práticas adotadas
-
-* Organização por módulos de teste
-* Uso de variáveis de ambiente
-* Relatórios automatizados
-* Testes independentes e reutilizáveis
-
----
 
